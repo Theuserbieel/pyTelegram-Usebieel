@@ -1,0 +1,26 @@
+asyncio==3.4.3
+attrs==23.1.0
+beautifulsoup4==4.12.2
+bs4==0.0.1
+certifi==2023.7.22
+cffi==1.15.1
+charset-normalizer==3.2.0
+cryptography==41.0.3
+idna==3.4 
+packaging @ file:///croot/packaging_1678965309396/work
+pluggy @ file:///work/ci_py311/pluggy_1676822818071/work
+pyaes==1.6.1
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycparser==2.21
+pyOpenSSL==23.2.0
+Pyrogram==2.0.106
+PySocks==1.7.1
+pytest @ file:///croot/pytest_1690474690005/work
+python-dotenv==1.0.0
+regex==2023.8.8
+requests==2.31.0
+service-identity==23.1.0
+soupsieve==2.4.1
+TgCrypto==1.2.5
+urllib3==2.0.4
